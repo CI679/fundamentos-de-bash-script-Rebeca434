@@ -67,7 +67,7 @@ Donde `argumento1` y `argumento2` pueden ser valores utilizados en las pruebas d
 
 ## Repositorio
 
-Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí]([URL_DEL_REPOSITORIO>](https://github.com/CI679/fundamentos-de-bash-script-Rebeca434/blob/main/README.md)).
+Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al repositorio [aquí]([https://github.com/CI679/fundamentos-de-bash-script-Rebeca434/blob/main/README.md])
 
 ---
 
